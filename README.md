@@ -19,7 +19,7 @@ This repor talk about Code 201 from Luminus University, it will be for the next 
 | 9   |  Read: 09 - Forms and Events                                                            |
 | 10  |  Read: 10 - JS Debugging                                                                |
 | 11  |  Read: 11 - Assorted Topics	                                                            |
-| 12  |  Read: 12 - Docs for the HTML <canvas> Element & Chart.js                               |
+| 12  |  Read: 12 - Docs for the HTML **canvas** Element & Chart.js                               |
 | 13  |  Read: 07 - Read: 13 - Local Storage                                                    |
 | 14  |  Read: 07 - Read: 14a - CSS Transforms, Transitions, and Animations                     |
 | 15  |  Read: 07 - Read: 14b - What Google Learned About Teams                                 |
