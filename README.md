@@ -77,7 +77,7 @@ Unordered
   * Item 2a
   * Item 2b
   
-Images
+### Images
 ![GitHub Logo](https://static.rfstat.com/renderforest/images/v2/logos/renderforest-logo2.jpg)
 
 
