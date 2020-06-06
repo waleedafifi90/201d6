@@ -5,7 +5,7 @@
 This repor talk about Code 201 from Luminus University, it will be for the next 4 weeks so I hope you enjoy with us.
 
 ### Table of content
-|  #  |                                     Title                                               |
+|  #  |  Title                                                                                  |
 | --- |:---------------------------------------------------------------------------------------:|
 | 1   |  Read: 01 - Introductory HTML and JavaScript                                            |
 | 2   |  Read: 02 - HTML Text, CSS Introduction, and Basic JavaScript Instructions              |
