@@ -1,0 +1,145 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset='utf-8'>
+    <meta http-equiv='X-UA-Compatible' content='IE=edge'>
+    <title>First page</title>
+    <meta name='viewport' content='width=device-width, initial-scale=1'>
+    <!-- <link rel='stylesheet' type='text/css' media='screen' href='main.css'> -->
+    <!-- <script src='main.js'></script> -->
+    <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@300&display=swap" rel="stylesheet">
+
+    <style>
+        html {
+            background: #e5e5e5;
+            font-family: 'Roboto', sans-serif;
+        }
+
+        body {
+            width: 500px;
+            margin: 0 auto;
+        }
+        header h1 {
+            text-align: center;
+        }
+
+        main p{
+            line-height: 50px;
+            margin: 0;
+            padding: 0 20px;
+        }
+
+        main p:nth-child(2) {
+            background-color: #1b6ca8;
+            color: #ffffff;
+        }
+
+        main p:nth-child(3) {
+            background-color: #0a97b0;
+            color: #ffffff;
+        }
+
+        main p:nth-child(4) {
+            background-color: #ffd3e1;
+            color: #000000;
+        }
+
+        main p:nth-child(5) {
+            background-color: #fce8d5;
+            color: #000000;
+        }
+    </style>
+
+</head>
+<body>
+    <header>
+        <h1>Class 1 Lab</h1>
+    </header>
+
+    <main>
+        <h2>List of Questions!</h2>
+
+        <p>What is your name?</p>
+        <p>Which donut do you prefer?</p>
+        <p>Which donut shop do you prefer?</p>
+        <p>How frequant do you eat donut?</p>
+    </main>
+
+    <footer></footer>
+
+    <script>
+        var userName = prompt('Please enter your name?', 'Waleed');
+        console.log('User has enter ', userName);
+
+        var donutType = prompt('Which donut do you prefer?', 'Chocolate Frosted Doughnut');
+        console.log('User has enter ', donutType);
+
+        var donutShop = prompt('Which donut shop do you prefer?', 'Mc');
+        console.log('User has enter ', donutShop);
+
+        var frequantTime = prompt('How frequant do you eat donut?', 'Weekly');
+        console.log('User has enter ', frequantTime);
+
+        alert('Horray ^_^\n' + userName + ' your favourit donut is ' + donutType + ', from ' + donutShop + ' shop, and you eat it ' + frequantTime + '\nYou going to gain much weight so stop eating donuts and have something healthy ^_^\'');
+    </script>
+</body>
+</html>
+
+<!-- 
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Our first webpage</title>
+    <style>
+      body{
+        background-color: beige;
+      }
+
+      #nav1{
+        background-color: cadetblue;
+      }
+
+      .firstList{
+        color: crimson;
+      }
+
+      ol{
+        border: 3px solid black;
+      }
+    </style>
+  </head>
+
+  <body>
+    <header>
+      <h1>World of Donuts</h1>
+      <nav id="nav1">
+        <ul >
+          <li class="firstList">Home Page</li>
+          <li style="color:darkgreen">Contact us</li>
+          <li class="firstList">About</li>
+        </ul>
+      </nav>
+    </header>
+
+    <main>
+      <h1>Donuts Flavors</h1>
+
+      <ol>
+        <li>Eclairs</li>
+        <li>Double Chocolate</li>
+        <li>Sugar dipped</li>
+      </ol>
+
+    </main>
+
+    <footer>
+
+    </footer>
+    <script>
+      var userName = prompt('What is your name?');
+      var favoriteFlavor = prompt('What is your favorite flavor?', 'Eclair');
+      console.log('The user entered the name ',userName);
+      alert('Hello '+ userName + ' You favorite flavor is '+ favoriteFlavor);
+    </script>
+  </body>
+</html> -->
