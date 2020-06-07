@@ -198,8 +198,8 @@ Or you can create new file called style.css and link it with Link in head tag
 ![css](https://www.bitdegree.org/learn/storage/media/images/8c4493d3-110c-4a95-8b70-7626ce2d2f4e.jpg)
 
 
-![javascript](https://4.bp.blogspot.com/-PQHNOWFNS9o/XAkNsyPerCI/AAAAAAAALks/ONXxkKH3lRwskA3cfiqPa-cGKlt8u-l6wCLcBGAs/s1600/javascript.jpg)
 
+![javascript](https://4.bp.blogspot.com/-PQHNOWFNS9o/XAkNsyPerCI/AAAAAAAALks/ONXxkKH3lRwskA3cfiqPa-cGKlt8u-l6wCLcBGAs/s1600/javascript.jpg)
 # javascript
 
 ## Statment
@@ -352,6 +352,7 @@ _HTML_
 ```
 
 
+![](https://www.bitdegree.org/tutorials/wp-content/uploads/2018/10/Top-10-Tips-To-Learn-JavaScript.jpg)
 # Decisions and Loops
 
 ### Arithmetic Operators
