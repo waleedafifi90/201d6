@@ -10,7 +10,7 @@ This repor talk about Code 201 from Luminus University, it will be for the next 
 | --- |:---------------------------------------------------------------------------------------:|
 | 1   |  [Read: 01 - Introductory HTML and JavaScript](https://waleedafifi90.github.io/reading-notes/class-01)                                            |
 | 2   |  [Read: 02 - HTML Text, CSS Introduction, and Basic JavaScript Instructions](https://waleedafifi90.github.io/reading-notes/class-02)              |
-| 3   |  Read: 03 - HTML Lists, CSS Boxes, JS Control Flow                                      |
+| 3   |  [Read: 03 - HTML Lists, CSS Boxes, JS Control Flow](https://waleedafifi90.github.io/reading-notes/class-03)                                    |
 | 4   |  Read: 04 - HTML Links, CSS Layout, JS Functions                                        |
 | 5   |  Read: 05 - HTML Images; CSS Color & Text                                               |
 | 6   |  Read: 06 - JS Object Literals; The DOM                                                 |
