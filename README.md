@@ -13,7 +13,7 @@ This repor talk about Code 201 from Luminus University, it will be for the next 
 | 3   |  [Read: 03 - HTML Lists, CSS Boxes, JS Control Flow](https://waleedafifi90.github.io/reading-notes/class-03)                                    |
 | 4   |  [Read: 04 - HTML Links, CSS Layout, JS Functions](https://waleedafifi90.github.io/reading-notes/class-04)                                        |
 | 5   |  [Read: 05 - HTML Images; CSS Color & Text](https://waleedafifi90.github.io/reading-notes/class-05)                                               |
-| 6   |  Read: 06 - JS Object Literals; The DOM                                                 |
+| 6   |  [Read: 06 - JS Object Literals; The DOM](https://waleedafifi90.github.io/reading-notes/class-06)                                                 |
 | 7   |  Read: 07 - HTML Tables; JS Constructor Functions                                       |
 | 8   |  Read: 08 - More CSS Layout                                                             |
 | 9   |  Read: 09 - Forms and Events                                                            |
