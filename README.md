@@ -15,7 +15,7 @@ This repor talk about Code 201 from Luminus University, it will be for the next 
 | 5   |  [Read: 05 - HTML Images; CSS Color & Text](https://waleedafifi90.github.io/reading-notes/class-05)                                               |
 | 6   |  [Read: 06 - JS Object Literals; The DOM](https://waleedafifi90.github.io/reading-notes/class-06)                                                 |
 | 7   |  [Read: 07 - HTML Tables; JS Constructor Functions](https://waleedafifi90.github.io/reading-notes/class-07)                                   |
-| 8   |  Read: 08 - More CSS Layout                                                             |
+| 8   |  [Read: 08 - More CSS Layout](https://waleedafifi90.github.io/reading-notes/class-08)                                                             |
 | 9   |  Read: 09 - Forms and Events                                                            |
 | 10  |  Read: 10 - JS Debugging                                                                |
 | 11  |  Read: 11 - Assorted Topics	                                                            |
