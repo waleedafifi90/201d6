@@ -20,7 +20,7 @@ This repor talk about Code 201 from Luminus University, it will be for the next 
 | 10  |  [Read: 10 - JS Debugging](https://waleedafifi90.github.io/reading-notes/class-10)                                                                |
 | 11  |  [Read: 11 - Assorted Topics](https://waleedafifi90.github.io/reading-notes/class-11)	                                                            |
 | 12  |  [Read: 12 - Docs for the HTML **canvas** Element & Chart.js](https://waleedafifi90.github.io/reading-notes/class-12)                               |
-| 13  |  Read: 13 - Read: 13 - Local Storage                                                    |
+| 13  |  [Read: 13 - Read: 13 - Local Storage](https://waleedafifi90.github.io/reading-notes/class-13)                                                    |
 | 14  |  Read: 14 - Read: 14a - CSS Transforms, Transitions, and Animations                     |
 | 15  |  Read: 15 - Read: 14b - What Google Learned About Teams                                 |
 
